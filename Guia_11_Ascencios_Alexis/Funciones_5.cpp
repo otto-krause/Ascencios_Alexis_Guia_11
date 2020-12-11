@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Estructura repetitiva para las resistencias.
     void resi();
     int total(int r1,int r2,int r3,int r4,int r5);
     int main( ) 

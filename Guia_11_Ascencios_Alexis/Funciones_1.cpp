@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//No hay función principal.
 void numeros();
 int total(int n1, int n2);
         int main( ) 
